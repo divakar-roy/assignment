@@ -1,0 +1,4 @@
+name: Service Demo
+description: This module demonstrates the use of services
+core: 8.x
+type: module

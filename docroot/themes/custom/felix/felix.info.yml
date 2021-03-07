@@ -1,0 +1,15 @@
+name: Felix Custo Theme
+description: This theme is made to build a custom layout
+type: theme
+core: 8.x
+base theme: stable
+screenshot: rose.jpg
+
+regions:
+  header: header
+  content: Content
+  sidebar_first: Sidebar First
+  footer: footer
+
+libraries:
+  - felix/global-css

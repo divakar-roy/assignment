@@ -1,0 +1,12 @@
+demo.module:
+
+  path: '/demo'
+
+  defaults:
+
+    _controller: '\Drupal\demo\Controller\DemoController::content'
+    _title: Demo Module Page
+
+  requirements:
+
+    _permission: 'access content'

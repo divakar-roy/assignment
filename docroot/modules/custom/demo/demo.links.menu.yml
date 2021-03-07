@@ -1,0 +1,9 @@
+demo.page.link:
+
+  title: 'Demo Page'
+  description: Links to the Demo Page
+  route_name: demo.module
+  weight: 5
+  menu_name: main
+
+

@@ -1,0 +1,7 @@
+services:
+
+  service_demo.string_match:
+
+    class: Drupal\service_demo\StringMatchService 
+
+    arguments: ['@current_user']

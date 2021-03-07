@@ -1,0 +1,6 @@
+name: Rest API for Node Info
+description: This REST API is meant to obtain the node report for the site
+core: 8.x
+type: module
+package: Custom
+version: 8.x-1.0
